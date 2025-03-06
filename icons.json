@@ -2,19 +2,27 @@
   
   "name":"icons@may",
   
-  "icons": 
+  "png_icons": 
   [
 
     {"name":"keliwahaha",
       "url":"https://raw.githubusercontent.com/loymay/icons/main/icons/png/keliwahaha.png"},
     
-  
-
     {"name":"cat",
-     "url":"https://raw.githubusercontent.com/loymay/icons/main/icons/png/cat.png"}
+     "url":"https://raw.githubusercontent.com/loymay/icons/main/icons/png/cat.png"},
+    
+    {"name":"cat_nani",
+     "url":"https://raw.githubusercontent.com/loymay/icons/main/icons/png/cat_nani.png"}
     
 
  
   ]
+
+"svg_icons":[
+  
+   {"name":"keliwahaha",
+    "url":"https://raw.githubusercontent.com/loymay/picbk/main/icons/svg/keliwahaha.svg"},
+  
+]
 
 }
