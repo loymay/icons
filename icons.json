@@ -1,0 +1,21 @@
+{
+  
+  "name":"icons@may",
+  
+  "icons": 
+  [
+
+    {"name":"jingzhe",
+      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/jingzhe.png"},
+    
+    {"name":"jingzhe1",
+      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/jingzhe1.png"},
+
+    {"name":"69yun",
+      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/69yun.png"}
+    
+
+ 
+  ]
+
+}
