@@ -2,20 +2,42 @@
   
   "name":"background@may",
   
-  "icons": 
+  "day": 
   [
-
-    {"name":"jingzhe",
-      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/jingzhe.png"},
+    {"name":"girl",
+      "url":"https://raw.githubusercontent.com/loymay/icons/main/bkgd/day/girl.jpg"
+      "description":"海边闪耀少女"
+    },
+ 
     
-    {"name":"jingzhe1",
-      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/jingzhe1.png"},
-
     {"name":"69yun",
       "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/69yun.png"}
-    
-
- 
+     
   ]
+
+
+  "night": 
+  [
+    {"name":"girl_1",
+      "url":"https://raw.githubusercontent.com/loymay/icons/main/bkgd/night/girl_1.jpg"
+      "description":"傍晚海边散步少女"
+    },
+
+    {"name":"kion",
+      "url":"https://raw.githubusercontent.com/loymay/icons/main/bkgd/night/kion.jpg"
+      "description":"雨夜のkion bando"
+    },
+
+    {"name":"xuenai",
+      "url":"https://raw.githubusercontent.com/loymay/icons/main/bkgd/night/xuenai.jpg"
+      "description":"雨夜雪之下雪乃"
+    },
+ 
+    
+    {"name":"69yun",
+      "url":"https://raw.githubusercontent.com/mayccai/emby-icons/main/icons/69yun.png"}
+     
+  ]
+
 
 }
